@@ -1,0 +1,47 @@
+.PersonDetails{
+    background-color: rgb(42,26,83);
+    height:100vh;
+    position: fixed;
+    padding-right: 50px;
+}
+.Header{
+    display: flex;
+    margin-left: 20px;
+}
+.Logo{
+    width: 50px;
+    height: 50px;
+    margin: 20px 10px;
+}
+
+.CompanyName{
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(247,225,121);
+    margin-top: 30px;
+}
+.PersonDP{
+    margin-top: 50px;
+   margin-left:20%;
+}
+.PersonName{
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+.EmailInfo,.TeleInfo,.AddressInfo,.InsuranceInfo{
+    display: flex;
+    margin-left: 30px;
+}
+.Icon{
+    color: white;
+    margin-top: 15px;
+    font-size: 25px;
+}
+.Detail{
+    color:#cdcdcd;
+    margin-left: 15px;
+    font-weight: 500;
+    
+}

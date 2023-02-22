@@ -1,0 +1,36 @@
+.AllDivisions{
+    border: 1px solid #333333;
+    padding: 20px;
+    width: fit-content;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+.Header1{
+    display: flex;
+}
+.PersonIcon{
+    margin-top: 20px;
+    font-size: 25px;
+}
+.HeaderName{
+    font-weight: 500;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.LabelsAndInputs{
+    display: flex;
+    
+    
+}
+.Label{
+    font-size: 16px;
+    font-weight: 500;
+    color: #555555;
+}
+.InputField{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+    color: #555555;
+    
+}

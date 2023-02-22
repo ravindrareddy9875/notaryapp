@@ -1,0 +1,104 @@
+.TwoParts{
+    display: flex;
+    
+}
+.AllBoxes{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.Box{
+    border: 2px solid #cdcdcd;
+    width: fit-content;
+    padding: 15px 20px 10px 20px;
+    border-radius: 10px;
+    margin-top: 7px;
+}
+.BoxHeading{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 15px;
+}
+.BoxContent{
+    width: 80%;
+    color: #cdcdcd;
+    font-weight: 400;
+}
+.Price{
+ 
+    margin-left: 80%;
+    margin-top: -12%;
+}
+.PriceValue{
+    border: 1px solid #dedede;
+    background-color: #dedede;
+    border-radius: 5px;
+    width: 70px;
+    height: 25px;
+    text-align: center;
+    color: #555555;
+   
+}
+.PerYear{
+    margin-left: 25px;
+    font-size: 12px;
+    margin-top: -20px;
+    color: #cdcdcd;
+}
+.ViewDetails{
+    display: flex;
+    margin-top: -10px;
+}
+.ViewDetailsText{
+    font-weight: bold;
+    font-size: 15px;
+}
+.NextIcon{
+    padding-top: 11px;
+    padding-left: 10px;
+    font-size: 25px;
+}
+
+
+
+.CostBox{
+    border: 2px solid #cdcdcd;
+    width: fit-content;
+    padding: 15px 20px 10px 20px;
+    border-radius: 10px;
+    margin-top: 25px;
+    width: fit-content;
+    margin-left: 30px;
+    height: fit-content;
+}
+.CostHeading{
+    font-weight: bold;
+    font-size: 20px;
+}
+.Options{
+    font-size: 20px;
+    font-weight: 500;
+    color: #555555;
+}
+.SubOptions{
+    font-size: 15px;
+    color: #666666;
+    font-weight: 500;
+    width: 70%;
+    margin-top:-20px;
+}
+.CostInput{
+    width: 60px;
+    height: 25px;
+    margin-top: 25px;
+    border-radius: 5px;
+}
+.OptionAndInput{
+    display: flex;
+    justify-content: space-between;
+}
+.TotalCost{
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: flex-end;
+}

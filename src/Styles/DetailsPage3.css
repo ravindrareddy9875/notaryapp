@@ -1,0 +1,14 @@
+.LabelsAndInputs1{
+    display: flex;
+    flex-direction: column;
+}
+.ScheduleButton{
+    background-color: rgb(208, 216, 242);
+    color: rgb(101, 52, 246);
+    width: fit-content;
+    padding: 10px 50px;
+    border-radius: 10px;
+    font-weight: 500;
+    margin-left: 25%;
+    cursor: pointer;
+}
